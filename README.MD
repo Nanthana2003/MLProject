@@ -11,8 +11,8 @@ In this problem, we consider a variant of the classic mountain car problem, wher
 
  - Video demo 2 (testing phase): [Link](https://drive.google.com/file/d/1Xp7DAfJpFlh2D02-xxpupXSd25VSqc9r/view?usp=sharing)
 
- - Link to the project report: [Link]()
+ - Link to the project report: [Link](https://drive.google.com/file/d/1RXLTs6owXzogf-TRYW-wr9TWXXVre55T/view?usp=sharing)
 
- - Link to the project presentation: [Link]()
+ - Link to the project presentation: [Link](https://docs.google.com/presentation/d/1yXGGzq443GJCvDozezHtNl8KmjWp26vx/edit?usp=sharing&ouid=107604608345855260299&rtpof=true&sd=true)
 
 
